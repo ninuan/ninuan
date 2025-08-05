@@ -31,4 +31,9 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [示例文章](http://hexo.1234211.xyz/article/example-1)
+- [加锁文章 - 密码123456](http://hexo.1234211.xyz/article/example-2)
+- [模板说明](http://hexo.1234211.xyz/article/guide)
+- [EMPTY-ARTICLE](http://hexo.1234211.xyz/article/example-3)
+- [绑定成功测试](http://hexo.1234211.xyz/article/example-4)
 <!-- BLOG-POST-LIST:END -->
