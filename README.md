@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ninuan/ninuan/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninuan)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninuan&show_icons=true&gheme=buefy)
 
 ![Metrics](/github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninuan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninuan&layout=compact)
 
 ![](https://stats.justsong.cn/api/csdn?id=weixin_56022603&cn=true)
 
