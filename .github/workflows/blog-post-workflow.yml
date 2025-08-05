@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://hexo.1234211.xyz/rss/feed.xml"
+          feed_list: "https://hexo.1234211.xyz/rss/atom.xml"
