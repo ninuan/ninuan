@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [示例文章](http://hexo.1234211.xyz/article/example-1)
-- [加锁文章 - 密码123456](http://hexo.1234211.xyz/article/example-2)
-- [模板说明](http://hexo.1234211.xyz/article/guide)
-- [EMPTY-ARTICLE](http://hexo.1234211.xyz/article/example-3)
-- [绑定成功测试](http://hexo.1234211.xyz/article/example-4)
+- [Markdown配合图床上传图片到Github](http://hexo.1234211.xyz/article/239f2d00-2350-8099-b628-d32e9351be79)
+- [环境配置](http://hexo.1234211.xyz/article/slam)
 <!-- BLOG-POST-LIST:END -->
