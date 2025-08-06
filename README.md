@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Markdown配合图床上传图片到Github](http://hexo.1234211.xyz/article/239f2d00-2350-8099-b628-d32e9351be79)
-- [环境配置](http://hexo.1234211.xyz/article/slam)
 <!-- BLOG-POST-LIST:END -->
