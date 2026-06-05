@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 </picture>
 
 ![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
 
 ![Metrics](/github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninuan&layout=compact)
+![Top Languages](./profile/top-langs.svg)
 
 ![](https://stats.justsong.cn/api/csdn?id=weixin_56022603&cn=true)
 
