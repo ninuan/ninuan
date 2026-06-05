@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninuan&show_icons=true&theme=buefy)
 
 ![Metrics](/github-metrics.svg)
 
